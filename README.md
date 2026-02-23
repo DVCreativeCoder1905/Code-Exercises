@@ -1,3 +1,2 @@
 # Code-Exercises
-This is my repository of my educative.io (redeemed with the GitHub Student Developer Pack) and personal code exercises.
-At the moment, i'm learning Python.
+Ciao, questa è la mia repository in cui carico i miei esercizi di piattaforme come Educative e i miei esercizi personali. Attualmente sto imparando Python.
