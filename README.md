@@ -1,2 +1,2 @@
 # Code-Exercises
-Ciao, questa è la mia repository in cui carico i miei esercizi di piattaforme come Educative e i miei esercizi personali. Attualmente sto imparando Python.
+Hi, this is my repository where I upload my exercises from platforms like Educative and my own exercises. I'm currently learning Python.
