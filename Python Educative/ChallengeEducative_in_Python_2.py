@@ -42,7 +42,7 @@ print("Liftoff!")
 
 while True:
     word = input("Write something here:")
-    if word == "bye":
+    if word == "bye, stop, exit":
         break
     if word == "":
         continue
